@@ -1,0 +1,9 @@
+{
+    "example-1": {
+        "component": "Example"
+    },
+    "product-detail": {
+        "component": "ProductDetail",
+        "composition": "children"
+    }
+}

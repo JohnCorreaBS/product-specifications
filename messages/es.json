@@ -1,0 +1,5 @@
+{
+    "admin/editor.seller-name.title": "Nombre del vendedor",
+    "admin/editor.seller-name.description": "Muestra el nombre del vendedor",
+    "admin/editor.seller-name.label.title": "Label que se imprimie antes del valor"
+}
